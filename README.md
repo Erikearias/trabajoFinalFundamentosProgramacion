@@ -17,4 +17,8 @@ venv\Scripts\activate
 ##3. Instalacion de dependencias
 pip install -r requirements.txt
 
+##4. Desactivacion del entorno virtual
+deactivate
+
+
 
